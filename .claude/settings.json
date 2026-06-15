@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source .venv/bin/activate && python tools/jira/get_ticket.py *)",
+      "Bash(.venv/bin/python tools/jira/get_ticket.py *)",
+      "Bash(python3 tools/jira/get_ticket.py *)"
+    ]
+  }
+}

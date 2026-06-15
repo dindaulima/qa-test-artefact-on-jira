@@ -1,0 +1,2923 @@
+"customfield_10537": {
+    "type": "doc",
+    "version": 1,
+    "content": [
+        {
+            "type": "table",
+            "attrs": {
+                "isNumberColumnEnabled": true,
+                "layout": "align-start",
+                "localId": "e009748f-09ae-4628-b8f1-b8a85be975d1"
+            },
+            "content": [
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "f4a59a297f89"
+                    },
+                    "content": [
+                        {
+                            "type": "tableHeader",
+                            "attrs": {
+                                "localId": "8189334fefac",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Test Scenario"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "572fcdafa5f6"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableHeader",
+                            "attrs": {
+                                "localId": "8e906f749af3",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d12b14b680f0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableHeader",
+                            "attrs": {
+                                "localId": "cf3d5ba82309",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Case & Evidence"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "13d33beeefee"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableHeader",
+                            "attrs": {
+                                "localId": "4a28c304a51d",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Priority"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "2609c21cb63e"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableHeader",
+                            "attrs": {
+                                "localId": "5d5fd6fb490d",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Status"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "8ea71ecbd545"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "71586b9ac9e3"
+                    },
+                    "content": [
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "3aadca249133",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Admin keuangan dapat membuat referensi voucher baru tanpa menambahkan penerima dan aturan voucher"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "a07944002be9"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Given"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "799ddc333642"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "83d5b2642919"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "User login sebagai Admin keuangan Universitas"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "b5e6e87e7133"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "2eb690aed8de"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "When"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "e7600280644e"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "ec6c9c8f9865"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengakses menu referensi voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "9381d3c8b040"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "bb9737344b93"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menambahkan voucher baru"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "2469235096ae"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "bc44347057db"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan tidak mengubah setting penerima voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "8b8cad5fa16c"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "20a5b7d119d5"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan tidak menginputkan aturan voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "5d8771ec6c25"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "10655a66f97c"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Then"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d2cc81578dad"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "8a6ad2a7dd86"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan berhasil menambahkan voucher baru"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "a5b8cc16dac2"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "52c39966e116"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Setting penerima voucher tersimpan berlaku untuk semua periode masuk, unit, jalur, gelombang, dan sistem kuliah"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "4e898f86c0e2"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "652496f81cbb"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Aturan voucher kosong sehingga belum bisa digunakan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "6cf17272f47e"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "7e1d1a54fb94"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "07845d067b78",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC-F1, AC-F2, AC-F6, AC-T2, AC-T3 , AC-T5"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "8ba72d3bc57e"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "3733ff58eac2",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "taskList",
+                                    "content": [
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa mengosongkan nama voucher"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "068b93b6-a539-4b85-88c5-d0ee999fdd54",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menginputkan nama voucher > 100 karakter "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "0f4bbe83-67ad-45e3-863e-17c12d4895c4",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa mengosongkan kode voucher tanpa mencentang Generate Kode Otomatis"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "06698be4-12de-4d85-9fc7-002419565c4a",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat mengosongkan kode voucher dan mencentang Generate Kode Otomatis"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "d604f95e-1f85-44f0-94f7-3fa789224c83",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa mengosongkan anggaran"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "a61a16f6-d789-4497-987b-a3111d0460dd",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menginputkan anggaran <=0"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "837b3fc3-7ec3-4f13-a7b9-cda736881b70",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat membuat voucher potongan persentase"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "9be2d3c8-bb34-4451-a210-01d55265909a",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa membuat voucher potongan persentase tanpa menginputkan persentase potongan"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "559c44ef-2fb4-461b-a559-9f656cf7763a",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa membuat voucher potongan persentase dengan persentase <=0"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "d0f87bf9-e8a8-4688-a04c-34855cc4562e",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat membuat voucher potongan nominal"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "7ddc2a10-d819-4f64-a798-0c9247bfbe9f",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa membuat voucher potongan nominal tanpa menginputkan nominal potongan "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "12c7d696-20ed-4de0-8ada-978584a48fa5",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa membuat voucher potongan nominal dengan nominal potongan <=0"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "042191a2-b584-4d1b-9c08-0b2fb1a43b20",
+                                                "state": "TODO"
+                                            }
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "f8c5312c-8e58-46fe-9478-7c0a3d9fbd30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "89708dcbf10b",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "8926beb16203"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "6994b7c57a21",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "5d5087404bdd"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "5f3e1b1eb590"
+                    },
+                    "content": [
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "fc51cd57c6b8",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Admin keuangan dapat menambahkan setting penerima voucher sekaligus saat membuat data referensi voucher baru "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d78c7f0f7229"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Given: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "1f4e728b9cc8"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "f317ade0b3f9"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "User login sebagai Admin Keuangan "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "c6c697e656ff"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "2f7f11d3437a"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "When: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "f03f9e4b5ef1"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "8877c18c4f78"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengakses menu referensi voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "497a5d768538"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "15846b62f1ac"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin menambahkan voucher baru atau mengakses detail voucher yang sudah ada"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "70777e5f1e5f"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "a5f73a92138e"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengubah setting penerima voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "e3d804b55878"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "15053dfb613f"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan tidak menginputkan aturan voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "2f3aff1aa526"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "9b5dfe4d788f"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Then: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "de4371d462b3"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "ed073ab9f103"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Voucher berhasil dibuat dengan tipe potongan sesuai pilihan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "108041714fbf"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "be698b9cf5a3"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Jika tidak ada periode masuk yang dipilih maka voucher berlaku untuk semua periode masuk"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "1772e0646272"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "1371440933bc"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Jika tidak ada unit yang dipilih maka voucher berlaku untuk semua unit"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "5d38c39a7e61"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "4d45ddde438a"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Jika tidak ada jalur pendaftaran yang dipilih maka voucher berlaku untuk semua jalur pendaftaran"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "0bbb42b65d3c"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "e12a64e7aaa8"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Jika tidak ada gelombang yang dipilih maka voucher berlaku untuk semua gelombang"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "8c67ca98b6e4"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "79627867fa7f"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Jika tidak ada sistem kuliah yang dipilih maka voucher berlaku untuk semua sistem kuliah"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "aea251d7285e"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "7257941bfe7e"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "bd8443df0efc",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC-F5, AC-F6, AC-F7"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d4bb6524040a"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "affb46bc4dd0",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "taskList",
+                                    "content": [
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat memilih dan  batal periode masuk tertentu"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "7f501123-8b0b-4b58-8895-fdc315963959",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menghapus periode masuk yang sudah dipilih"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "8d5e42db-3a0e-4241-a44a-dac94d595a99",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat memilih dan batal pilih unit tertentu"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "71dcb998-ff52-41a6-9adf-e6aba3e50e82",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menghapus unit yang sudah dipilih"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "ea2263d5-8866-4599-9bfa-f3321cdb2eb3",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat memilih dan batal pilih jalur tertentu"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "1c2b5c91-cd33-4375-9996-fcef1b8eb7f1",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menghapus jalur yang sudah dipilih"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "2bf54a5b-e395-4c8b-b16a-b946a279c4f2",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat memilih dan batal pilih gelombang tertentu"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "ab6ffb24-e25e-4c8b-8814-4dd1bd8d25ec",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menghapus gelombang yang sudah dipilih"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "ba143d8f-eb11-435d-8da0-46248cb96273",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat memilih dan batal pilih sistem kuliah tertentu"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "fbc8c6fc-8808-4971-b606-679caf4a85df",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menghapus sistem kuliah yang sudah dipilih"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "cba2936e-fca4-4ed4-8e96-22cc52c08450",
+                                                "state": "TODO"
+                                            }
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "9292fb7f-e804-4e40-87cc-7f53f514f2c8"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "f4223390da0f",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "075b9d1c1671"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "9a051bcb2e43",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "52d2478dd08a"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "6632b2a4f8a1"
+                    },
+                    "content": [
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "ba37deeb75a2",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Admin keuangan dapat menambahkan aturan voucher sekaligus saat membuat data referensi voucher baru atau mengubah aturan voucher yang sudah ada"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "3d29a1b405e4"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Given: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "23845d85e8ef"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "d1be4ee80187"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "User login sebagai Admin Keuangan "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "adda80925fa9"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "aafa7b1ce298"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "When: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "08147253f02b"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "87264a1614b6"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengakses menu referensi voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "3f9bc02ee27d"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "36cf8ca7d995"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin menambahkan voucher baru atau mengakses detail voucher yang sudah ada"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "8189c055c196"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "54ec817a2c88"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengubah setting penerima voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "0778c607909e"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "4efa25647a52"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menginputkan aturan voucher untuk jenis akun tertentu"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "40d8eef4916c"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "7b284cd0a9fd"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menambahkan syarat minimum pembayaran berupa nominal untuk jenis akun tertentu"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "195fac8efc82"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "a38635ec256a"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menambahkan syarat minimum pembayaran berupa persentase untuk jenis akun tertentu"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "5b9ab066c1d1"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "510e58c9feee"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin menambahkan ketentuan maksimal potongan untuk setiap jenis akun"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "92173d5f0a74"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "7968b21e28d0"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin mengurutkan aturan voucher dengan cara drag & drop pada setiap jenis akun yang ingin diurutkan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "1138c05c0d64"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "7d770e05c7b3"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin menyimpan data voucher beserta aturannya"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "cd9f0fa5bde5"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "3f40e1a410eb"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Then: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "ddd394ee1388"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "a25eedde31c0"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Voucher berhasil dibuat dengan tipe potongan sesuai pilihan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "5479d637f2c8"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "fd006e6bc7bd"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan berhasil menambahkan maksimal potongan untuk setiap jenis akun pada aturan voucher "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "606497984676"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "b075082d0171"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Aturan voucher tersimpan terurut sesuai urutan yang diinginkan Admin keuangan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "942e4a3bee04"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "7490fe958d03"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "f4ff7e0dc419",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC-F3, AC-F4, AC-D1, AC-T3"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "4c9a71d190fa"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "8c12f865174f",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "taskList",
+                                    "content": [
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menambahkan aturan voucher bersamaan dengan menambahkan referensi voucher baru"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "ed0e0682-5553-48e3-8c7a-199442d13d63",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat mengubah urutan aturan voucher dengan cara drag & drop"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "68987262-50c3-4bf1-acd9-cd8ae01e21f2",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menginputkan jenis akun duplikat"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "c1b84bb0-289d-4d96-831f-c0a79a48ddee",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menginputkan maksimal potongan <=0"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "661daabd-8053-4017-86e9-2c9ddaa741f1",
+                                                "state": "TODO"
+                                            }
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d75613ab-617a-4a61-ae08-9cce99dafc52"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "b433e9488efd",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "13af68c009d7"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "e66f10fcfb49",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "03c847177ffa"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "799a899538ca"
+                    },
+                    "content": [
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "014de7170e35",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Admin keuangan dapat menambahkan syarat pembayaran minimum pada seting aturan voucher "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "8fbc1a521348"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Given: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "f8a8aefc51d7"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "1ae40b4d3499"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan sudah membuat voucher "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "1ed3848872c5"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "b98315d9d5bb"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "When: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "c08eb5899de0"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "bc57a0f6eaeb"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengakses menu referensi voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "6445888ad0fb"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "dcc3885a88d5"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin mengakses halaman detail voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "b962717a4164"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "c37bba198933"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menambahkan aturan voucher untuk beberapa jenis akun "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "8fc10f1249ad"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "0473c5c08ec5"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menambahkan syarat pembayaran minimum berupa nominal untuk beberapa jenis akun"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "3791991e121e"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "15709049c880"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menambahkan syarat pembayaran minimum berupa persentase untuk beberapa jenis akun"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "51e7f69bf0c1"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "f11d4059f11a"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Then: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "e59ee7a091bb"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "eb75989cdfef"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan berhasil menambahkan syarat pembayaran minimum berupa nominal"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "3a711a668bce"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "1b1023cd8ef7"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan berhasil menambahkan syarat pembayaran minimum berupa persentase"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "26d7596b44d3"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "7e2cec0dab47"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "5cb3b112deb6",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC-F3, AC-T4"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "e811a3e6f747"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "695a9704d1d5",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "taskList",
+                                    "content": [
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat membuat syarat pembayaran minimum berupa nominal"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "06b26293-f509-4acc-b3cc-099ca7efe0ab",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menginputkan syarat pembayaran minum dengan nominal <=0"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "e0f671a0-6949-49cc-b5cb-d4b2e2ab7c40",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat membuat syarat pembayaran minimum berupa persentase"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "a83c73bc-f4d5-4610-a92d-987acffc86dd",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menginputkan syarat pembayaran minum dengan persentase <=0"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "49558b4e-d663-49ff-abfc-34b95f7da60b",
+                                                "state": "TODO"
+                                            }
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "b418bbea-eb23-4eca-baf5-b71cf8d94e49"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "7e340eae3d18",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "M"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "02ac7c912dca"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "146404aff073",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "6133afe0e218"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "5dcab948a682"
+                    },
+                    "content": [
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "7809d5cc8157",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Admin keuangan dapat mengubah syarat pembayaran minimum dan maksimal potongan per jenis akun meskipun voucher sudah digunakan untuk memotong tagihan sesuai jenis akun tersebut"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "e58247af4812"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Given: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "122b1a7ef1fe"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "01195c38fbbb"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan sudah membuat voucher "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "d31ec5e1ee63"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "f802181f372c"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan sudah menambahkan syarat pada aturan voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "1426931db1ca"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "f8221ffbb393"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Mahasiswa sudah menggunakan voucher untuk membayar tagihan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "b447ed234a7c"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "e5867a6f0510"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Data:"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "2960c341d63b"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "bulletList",
+                                                    "content": [
+                                                        {
+                                                            "type": "listItem",
+                                                            "attrs": {
+                                                                "localId": "03815c2fe636"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "NIM:"
+                                                                        }
+                                                                    ],
+                                                                    "attrs": {
+                                                                        "localId": "36161e9b2d0a"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "listItem",
+                                                            "attrs": {
+                                                                "localId": "782a64f334a9"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "Jenis akun:"
+                                                                        }
+                                                                    ],
+                                                                    "attrs": {
+                                                                        "localId": "dfddf0b5df77"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "b52fc26cf79d"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "c7e4c6fdb2aa"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "When: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "a0a7496b3246"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "a87e30fa0202"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin mengakses halaman detail voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "e266e7c719de"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "d73d17e99c65"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengubah syarat pembayaran minimum untuk jenis akun yang sama dengan tagihan mahasiswa"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "57003e3d396c"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "c5529233c79a"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengubah aturan maksimal potongan untuk jenis akun yang sama dengan tagihan mahasiswa"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "12e5f6353000"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "645aabc2b705"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Then: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "7627274bcbf2"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "c6de2d84e105"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan berhasil mengubah syarat pembayaran minimum"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "d39924ff1ae8"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "61546576c20c"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan berhasil mengubah aturan maksimal potongan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "9c81219160e5"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "12afc7f499fb"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "c8776251f490",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC-F8, AC-D2"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "eeb4cad328e6"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "ad1b14ca5616",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "taskList",
+                                    "content": [
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat mengubah syarat pembayaran minimum"
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "879e3dbe-7fce-4a67-9878-0542a8429045",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat mengubah maksimal potongan "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "3aeaf33a-f605-4a3b-8349-7666f96ec7c3",
+                                                "state": "TODO"
+                                            }
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d9510956-75eb-4ae9-a7ab-c76f6eb8fcad"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "8fd1d439e60b",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "M"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "c71ac85a7790"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "4fb13d66914e",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "702de86c662c"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tableRow",
+                    "attrs": {
+                        "localId": "bb0845cf05bd"
+                    },
+                    "content": [
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "26a08004c9c8",
+                                "colwidth": [
+                                    665
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Admin keuangan tidak dapat mengubah jenis akun pada aturan voucher atau menghapus  aturan voucher jika voucher sudah digunakan untuk memotong tagihan sesuai  jenis akun tersebut"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "fbe00d269950"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Given: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "ebd1ea8e521f"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "d239f33d1ce9"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan sudah membuat voucher "
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "ebe4d3395ea1"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "7e97d51eaa9b"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan sudah menambahkan syarat pada aturan voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "7e2c3d041fce"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "4a0e0e0892c1"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Mahasiswa sudah menggunakan voucher untuk membayar tagihan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "d5e44e99df60"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "3e7e7ddc0aef"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Data:"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "230f04d55a91"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "bulletList",
+                                                    "content": [
+                                                        {
+                                                            "type": "listItem",
+                                                            "attrs": {
+                                                                "localId": "a79d651bb7ed"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "NIM:"
+                                                                        }
+                                                                    ],
+                                                                    "attrs": {
+                                                                        "localId": "e86d253165b5"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "listItem",
+                                                            "attrs": {
+                                                                "localId": "b23a6db13ca1"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "Jenis akun:"
+                                                                        }
+                                                                    ],
+                                                                    "attrs": {
+                                                                        "localId": "1dcd27c32c45"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "b0ba6100ce18"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "1bda7e903418"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "When: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d6f1087c9f5c"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "a0c587bf4972"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin mengakses halaman detail voucher"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "28aae34150b1"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "0b7cfabdc3a4"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mengubah jenis akun pada aturan voucher untuk jenis akun yang sama dengan tagihan mahasiswa"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "fce33436cbce"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "bae905cce5c5"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan menghapus aturan voucher untuk jenis akun yang sama dengan tagihan mahasiswa"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "ad0c8abbaf83"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "b7d3a5b4f795"
+                                    }
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Then: "
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "1823ca78ed39"
+                                    }
+                                },
+                                {
+                                    "type": "bulletList",
+                                    "content": [
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "307c11d00921"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Aturan voucher untuk jenis akun yang belum digunakan dapat diubah"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "1deb8b15eed8"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "80ed863ad982"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Aturan voucher untuk jenis akun yang belum digunakan dapat dihapus"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "d96614f497f7"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "214dddb17f9b"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mendapatkan pesan error bahwa jenis akun tidak bisa diubah karena voucher sudah digunakan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "9dbef86270cd"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "listItem",
+                                            "attrs": {
+                                                "localId": "aecf01600c6b"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Admin keuangan mendapatkan pesan error bahwa aturan voucher tidak bisa dihapus karenavoucher sudah digunakan"
+                                                        }
+                                                    ],
+                                                    "attrs": {
+                                                        "localId": "3752de6dc4b5"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "d8e0565864d6"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "a9f7a087172c",
+                                "colwidth": [
+                                    91
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AC-D2"
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "841d474367ab"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "d614d01e262b",
+                                "colwidth": [
+                                    603
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "taskList",
+                                    "content": [
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat menghapus data aturan voucher jika voucher belum digunakan untuk memotong tagihan sesuai jenis akun tersebut "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "3a8e5ee0-9e33-4898-be67-730d8cd1fba6",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa menghapus data aturan voucher saat voucher sudah digunakan untuk memotong tagihan sesuai jenis akun tersebut "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "5276fa59-e094-49f1-8fcc-d15701d10d4b",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[+] Admin keuangan dapat mengubah jenis akun aturan voucher jjika voucher belum digunakan untuk memotong tagihan sesuai jenis akun tersebut "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "46e16930-efc0-4812-8313-f598e5d07625",
+                                                "state": "TODO"
+                                            }
+                                        },
+                                        {
+                                            "type": "taskItem",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "[-] Admin keuangan tidak bisa mengubah jenis akun aturan voucher saat voucher sudah digunakan untuk memotong tagihan sesuai jenis akun tersebut "
+                                                }
+                                            ],
+                                            "attrs": {
+                                                "localId": "c423232c-a85c-49c9-8423-34827b3a9838",
+                                                "state": "TODO"
+                                            }
+                                        }
+                                    ],
+                                    "attrs": {
+                                        "localId": "12719ffa-d146-4f18-a718-951892bb1c7b"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "9356fc00e28b",
+                                "colwidth": [
+                                    65
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "b00605e69bf9"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableCell",
+                            "attrs": {
+                                "localId": "7953c7b1da70",
+                                "colwidth": [
+                                    67
+                                ]
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "localId": "b3959afc161c"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

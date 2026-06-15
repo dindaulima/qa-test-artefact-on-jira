@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python -c ' *)",
+      "Bash(.venv/bin/python tools/jira/get_ticket.py BRAVO-1169)",
+      "Bash(mkdir -p /home/sevima-330/Documents/myQA/tools/report && ls /home/sevima-330/Documents/myQA/tools/)",
+      "Bash(python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(.venv/bin/python tools/jira/update_ticket.py BRAVO-1169 --ac-file output/BRAVO-1169/ac.md --append --yes)",
+      "Bash(.venv/bin/python tools/jira/update_ticket.py BRAVO-1169 --tc-file output/BRAVO-1169/tc.md --yes)",
+      "Bash(python /home/sevima-330/Documents/myQA/tools/jira/get_ticket.py BRAVO-1169)",
+      "Bash(python3 /home/sevima-330/Documents/myQA/tools/jira/get_ticket.py BRAVO-1169)",
+      "Bash(python3 tools/jira/get_ticket.py BRAVO-1169)",
+      "Bash(python3 -c \"from dotenv import load_dotenv; print\\('dotenv ok'\\)\")",
+      "Bash(mkdir -p /home/sevima-330/Documents/myQA/output/BRAVO-1169)",
+      "Bash(mkdir -p /home/sevima-330/Documents/myQA/.claude/skills/fetchJira)",
+      "Bash(ls ~/.claude/projects/ | head -20)",
+      "Read(//home/sevima-330/.claude/projects/**)",
+      "Bash(mkdir -p output/BRAVO-1099)",
+      "Bash(mkdir -p /home/sevima-330/Documents/myQA/tools/playwright)",
+      "Bash(mkdir -p /home/sevima-330/Documents/myQA/.claude/skills/generatePlaywright)",
+      "Bash(python tools/playwright/extract_functional_tc.py output/TEST-999/tc.md --summary)",
+      "Bash(npx --version)",
+      "Bash(cat /home/sevima-330/.claude/settings.json 2>/dev/null || echo \"no settings.json\")",
+      "Read(//home/sevima-330/.claude/**)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(npx playwright *)",
+      "Bash(npx @playwright/mcp@latest --help)",
+      "Bash(rm -f /home/sevima-330/Documents/myQA/output/BRAVO-1169/ac.md /home/sevima-330/Documents/myQA/output/BRAVO-1169/tc.md && ls /home/sevima-330/Documents/myQA/output/BRAVO-1169/)",
+      "Bash(rm -f /home/sevima-330/Documents/myQA/output/BRAVO-1169/ac.md /home/sevima-330/Documents/myQA/output/BRAVO-1169/tc.md)",
+      "Bash(mkdir -p /home/sevima-330/Documents/myQA/output/BRAVO-1214)"
+    ],
+    "additionalDirectories": [
+      "/home/sevima-330/Documents/myQA/tools",
+      "/home/sevima-330/Documents/myQA/output/BRAVO-1169",
+      "/home/sevima-330/Documents/myQA/.claude/skills",
+      "/home/sevima-330/Documents/myQA/output"
+    ]
+  }
+}

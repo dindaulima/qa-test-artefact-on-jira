@@ -1,0 +1,21 @@
+{
+  "name": "myqa",
+  "version": "1.0.0",
+  "description": "Agent berbasis AI untuk menghasilkan Acceptance Criteria (AC), Test Scenarios (TS), dan Test Cases (TC) dari tiket Jira, lalu menuliskannya langsung ke Jira.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
